@@ -1,4 +1,4 @@
-## Hi, I'm Mijaíl 👋
+## Hi, I'm Mikhail 👋
 
 I've been studying frontend web dev and trying to make useful & accessible web apps for about 1.5 years. In my projects I currently stick to React JS (functional) but lately I've given a try to TypeScript and found it quite enjoyable too!
 
