@@ -1,7 +1,29 @@
 ## Hi, I'm Mikhail 👋
 
-I've been studying frontend web dev and trying to make useful & accessible web apps for about 1.5 years. In my projects I currently stick to React JS (functional) but lately I've given a try to TypeScript and found it quite enjoyable too!
+I've been studying web dev and building small apps for about 2 years. My latest project is full-stack and built with Next.js and TypeScript – and that's the stack core I'm planning to hone in my further projects.
 
-At the moment I have only 1 project that truly meets my standards and is thus available to public: [Georgian Transliterator](https://github.com/elmijail1/georgian-transliterator). I've been working on several more apps recently and they all are language-related since linguistics is my area of interest (not the only one though).
+## 🧳 Projects
+At the moment I have 2 finished projects:
+1. [Georgian Transliterator](https://github.com/elmijail1/georgian-transliterator)
+2. [Profile Practice](https://github.com/elmijail1/profile-practice-nextjs)
 
-I would be really excited to test my skills & knowledge in a project with a team of experienced developers. It would be great to learn from them and start my own career in a company of professionals who help their teammates grow. I have experience with React JS, React Router, and Vitest. I also have briefly used such things as TypeScript, ReactQuery, and Firebase. If you're hiring, let's chat!
+## 🛠 Tech Stack & Tools
+Currently working with:
+- Next.js 15
+- Next Auth 4
+- Prisma 6
+- React 19
+- TypeScript
+- Cursor
+  
+I also have experience with:
+- React Router
+- Firebase
+- Vitest
+
+## 🎯 Goals
+I'm excited to test my skills in a project with a team of experienced developers. I'm eager to learn from others and grow in a team that values collaboration and mentorship.
+
+---
+
+📬 If you're hiring or open to collaboration – let's chat!
